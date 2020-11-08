@@ -1,0 +1,4 @@
+discord.py
+flask
+PyNaC1
+dnspython
